@@ -1,6 +1,33 @@
-## Welcome to GitHub Pages
+## Welcome to Northeast Region Bioinformatics Regional Resource Site
 
-You can use the [editor on GitHub](https://github.com/StaPH-B/staphb.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+**Purpose:**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
