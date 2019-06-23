@@ -20,7 +20,7 @@ bioinformatics technical support
 
 [About](https://staph-b.github.io/northeast-region/About.html)
 
-
+[Another Page](https://staph-b.github.io/northeast-region/pages/Another_page.html)
 
 
 
