@@ -3,7 +3,7 @@
 **Purpose:**
 
 
-[About](https://staph-b.github.io/northeast-region/About.md)
+[About](https://staph-b.github.io/northeast-region/About.html)
 
 
 
