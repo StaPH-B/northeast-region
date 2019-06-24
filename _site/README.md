@@ -1,3 +1,5 @@
+![](/assets/img/slider-transform.jpg)
+
 ## Welcome to Northeast Region Bioinformatics Regional Resource Site
 
 **Purpose:** OAMD seeks to develop an effective public health workforce prepared to address infectious disease threats, including:
