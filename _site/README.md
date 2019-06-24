@@ -2,7 +2,7 @@
 
 ## Welcome to Northeast Region Bioinformatics Regional Resource Site
 
-**Purpose:** OAMD seeks to develop an effective public health workforce prepared to address infectious disease threats, including:
+**Purpose:** The CDC's Office of Advanced Molecular Detection (OAMD) seeks to develop an effective public health workforce prepared to address infectious disease threats, including:
 
 - Improved workforce knowledge and skills regarding next-generation sequencing (NGS),
 bioinformatics, and other AMD technologies.
