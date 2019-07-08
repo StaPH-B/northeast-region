@@ -1,6 +1,6 @@
 ![](/assets/img/slider-transform.jpg)
 
-## Welcome to Northeast Region Bioinformatics Regional Resource Site
+## Welcome to Northeast Region Bioinformatics Regional Resource and Workforce Development Site
 
 **Purpose:** The CDC's Office of Advanced Molecular Detection (OAMD) seeks to develop an effective public health workforce prepared to address infectious disease threats, including:
 
